@@ -1,5 +1,5 @@
-# Gold-Standard
-Gold Standard versus Ground Truth
+# Gold-Standard versus Ground Truth
+
 Typical medicine diagonsis involves at least some known case/standard/criteria in achieving diagnostic results 
 however
 the true status (in particular, psychological/mental) of a patient can never be really revealed, isn't it?
