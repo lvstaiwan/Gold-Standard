@@ -4,6 +4,8 @@ Typical medicine diagonsis involves at least some known case/standard/criteria i
 however
 the true status (in particular, psychological/mental) of a patient can never be really revealed, isn't it?
 
+Therefore, when a gold standard is missing, we need to rely on classifying the hidden/latent patterns of "repeatiable" large amount of individual oberservations to distinguish the bad's (cases) from the good's (ordinary).
+
 
 # Related Works
 a latent class model in which the latent variable represents an individual's true unobserved disease status 
