@@ -15,6 +15,10 @@ The work flow of employing a latent class analysis
 
 the input dataset: individual's X items
 
+Step 2
+maximumizing the likelihoods until convergence is reached
+
+Step 3
 
 
 * Separating Latent Classes by Information Criteria https://doi.org/10.1007/s00357-007-0010-1
