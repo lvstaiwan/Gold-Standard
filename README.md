@@ -11,6 +11,9 @@ Therefore, when a gold standard is missing, we need to rely on classifying the h
 a latent class model in which the latent variable represents an individual's true unobserved disease status 
 
 
+* Separating Latent Classes by Information Criteria https://doi.org/10.1007/s00357-007-0010-1
+
+
 * Evaluating latent class analysis models in qualitative phenotype identification https://doi.org/10.1016/j.csda.2004.11.004
 
 
