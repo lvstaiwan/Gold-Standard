@@ -10,6 +10,7 @@ Therefore, when a gold standard is missing, we need to rely on classifying the h
 # Related Works
 a latent class model in which the latent variable represents an individual's true unobserved disease status 
 
+Step 1
 The work flow of employing a latent class analysis
 
 the input dataset: individual's X items
